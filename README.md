@@ -2,7 +2,7 @@
 
 <p float="left">
   
-  <img width="295" alt="Screenshot 2022-11-14 at 1 08 54 PM" src="https://user-images.githubusercontent.com/114526183/201746855-3531bc39-9f6f-42d2-9c3f-1a6978f30254.png">
+  <img width="295" height="500" alt="Screenshot 2022-11-14 at 1 08 54 PM" src="https://user-images.githubusercontent.com/114526183/201746855-3531bc39-9f6f-42d2-9c3f-1a6978f30254.png">
   <img width="295" alt="Screenshot 2022-11-14 at 1 09 01 PM" src="https://user-images.githubusercontent.com/114526183/201746886-bba58940-fe20-4c14-89d1-ca7efbdc48d0.png">
   <img width="295" alt="Screenshot 2022-11-14 at 1 09 13 PM" src="https://user-images.githubusercontent.com/114526183/201745875-b93682aa-d5dc-4df6-9a79-8018add4b813.png">
 <img width="295" alt="Screenshot 2022-11-14 at 1 09 23 PM" src="https://user-images.githubusercontent.com/114526183/201745897-5545a75d-2280-48e2-8a2e-a421c8e2be84.png">
