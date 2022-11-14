@@ -1,10 +1,6 @@
 # Capital One Budgeting App
 
 <p float="left">
-  <img  src="https://user-images.githubusercontent.com/114526183/201745858-7d7e1693-77fa-4d43-af23-0dab3594bb1c.png"> width="100" />
-  <img src="https://user-images.githubusercontent.com/114526183/201745865-d78228bc-d510-4ef9-9e5b-5fca8786522f.png"> width="100" /> 
-  <img src="https://user-images.githubusercontent.com/114526183/201745858-7d7e1693-77fa-4d43-af23-0dab3594bb1c.png"> width="100" />
-  <img width="309" alt="Screenshot 2022-11-14 at 1 09 01 PM" src="https://user-images.githubusercontent.com/114526183/201745865-d78228bc-d510-4ef9-9e5b-5fca8786522f.png">
   <img width="305" alt="Screenshot 2022-11-14 at 1 09 13 PM" src="https://user-images.githubusercontent.com/114526183/201745875-b93682aa-d5dc-4df6-9a79-8018add4b813.png">
 <img width="315" alt="Screenshot 2022-11-14 at 1 09 23 PM" src="https://user-images.githubusercontent.com/114526183/201745897-5545a75d-2280-48e2-8a2e-a421c8e2be84.png">
 <img width="314" alt="Screenshot 2022-11-14 at 1 09 35 PM" src="https://user-images.githubusercontent.com/114526183/201745910-55ee0a84-eb3c-4543-9b74-7e02fe036915.png">
